@@ -1,0 +1,12 @@
+﻿  Activitate.cpp
+  compare.cpp
+  compare.h
+  main.cpp
+  repo.cpp
+  service.cpp
+  test.cpp
+  ui.cpp
+  valid.cpp
+  Generating Code...
+Debug\compare.obj : warning LNK4042: object specified more than once; extras ignored
+  laborator8.vcxproj -> D:\Another\OOP_homework\laborator8\Debug\laborator8.exe

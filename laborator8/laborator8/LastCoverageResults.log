@@ -1,0 +1,21 @@
+[2020-04-17 13:10:42] [info] Start Program:
+Path:"D:\\Another\\OOP_homework\\laborator8\\Debug\\laborator8.exe"
+Arguments:
+Working directory: "D:\\Another\\OOP_homework\\laborator8\\laborator8\\"
+Modules: Selected: D:\Another\OOP_homework\laborator8\Debug\laborator8.exe Excluded: 
+Sources: Selected: D:\Another\OOP_homework\laborator8\laborator8 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\ghera\AppData\Local\Temp\y23b1gu2.1gy 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-04-17 13:10:42] [info] Module: D:\Another\OOP_homework\laborator8\Debug\laborator8.exe is selected because it matches selected pattern: D:\Another\OOP_homework\laborator8\Debug\laborator8.exe
+[2020-04-17 13:10:44] [info] ----------------------------------------------------
+[2020-04-17 13:10:44] [info] Coverage binary generated in file: C:\Users\ghera\AppData\Local\Temp\y23b1gu2.1gy
+[2020-04-17 13:10:44] [info] ----------------------------------------------------
